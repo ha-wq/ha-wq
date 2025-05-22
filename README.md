@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Abror, and I am a high school senior from Uzbekistan. 
+
+- 🔭 I’m currently working on small projects related to AI training, including an implementation of Biograms, Micrograd, and others. 
+- 🌱 I’m currently exploring Natural Language Processing. I'm reading research papers (Transformer, BERT, etc.) and following tutorials on Andrej Karpathy's YouTube channel. 
+- 👯 I’m looking to collaborate on 
+
 <!--
 **ha-wq/ha-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
